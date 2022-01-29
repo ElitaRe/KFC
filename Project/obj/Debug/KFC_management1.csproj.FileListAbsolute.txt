@@ -1,0 +1,10 @@
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\KFC_management1.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\KFC_management1.Form1.resources
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.Properties.Resources.resources
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\KFC_management1.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\KFC_management1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.exe
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\obj\Debug\FastFood_management1.pdb
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.exe.config
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.exe
+C:\Users\hp\Downloads\C--Sharp-_fastfood_management\bin\Debug\FastFood_management1.pdb
